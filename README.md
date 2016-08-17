@@ -6,3 +6,5 @@ Comment on and Contribute to the Code:
 
 -Grow
 [www.heartwork.us](https://www.heartwork.us)
+
+![loved_based_action](https://raw.githubusercontent.com/rolandobrown/heartwork/img/modeling_methods_for_offering_love_based_actions.png?raw=true)
